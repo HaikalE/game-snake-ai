@@ -1,7 +1,7 @@
 # game-snake-ai
 
 ![image](https://github.com/user-attachments/assets/cf1c233f-5921-4bad-adbd-cd3b40dc4324)
-
+## VIDEO DEMO : https://www.youtube.com/watch?v=8594-B0zr2c
 ---
 
 ### 1. Particle Effects
