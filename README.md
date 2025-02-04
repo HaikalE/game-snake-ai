@@ -1,5 +1,7 @@
 # game-snake-ai
 
+![image](https://github.com/user-attachments/assets/cf1c233f-5921-4bad-adbd-cd3b40dc4324)
+
 ---
 
 ## Detailed Explanation of Formulas and Algorithms
