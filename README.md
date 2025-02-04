@@ -4,10 +4,6 @@
 
 ---
 
-## Detailed Explanation of Formulas and Algorithms
-
-This section explains the key formulas and algorithms used in the game in plain text so that they can be easily read in the GitHub README.
-
 ### 1. Particle Effects
 
 **Alpha (Opacity) Calculation for Particles:**
